@@ -1,4 +1,4 @@
-Yesh Racing Car
+Racing Car
 ==========================
 
 An Outrun-style pseudo-3d racing game in HTML5 and Javascript
